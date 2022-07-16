@@ -8,7 +8,7 @@ The calculation of age or time difference does not depend on the timezone of the
 This age calculator is created on the basis of most common age system, so that it stays relevant for most of the people.
 
 
-#Screenshots:
+# Screenshots:
 
 ![image](https://user-images.githubusercontent.com/91545371/179367227-c93abf22-96a9-48e3-bb3f-5a4cdda901e7.png)
 
@@ -16,6 +16,6 @@ This age calculator is created on the basis of most common age system, so that i
 
 ![image](https://user-images.githubusercontent.com/91545371/179367241-bf593c0d-b81b-4cea-a302-d8f40adfb735.png)
 
-#Developers:
+# Developers:
 
 https://github.com/panditsamik
