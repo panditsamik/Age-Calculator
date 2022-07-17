@@ -10,7 +10,11 @@ This age calculator is created on the basis of most common age system, so that i
 
 # Screen shots:
 
-![image](https://user-images.githubusercontent.com/91545371/179367227-c93abf22-96a9-48e3-bb3f-5a4cdda901e7.png)
+# Default mode :
+
+![image](https://user-images.githubusercontent.com/91545371/179386299-8f8c91e1-37d3-4b8c-9de5-462246b9a0ab.png)
+
+# After Selection:
 
 ![image](https://user-images.githubusercontent.com/91545371/179367236-a13199c8-c00f-4fab-91e1-09b536cbe78d.png)
 
